@@ -26,45 +26,47 @@ Features
 
 3. Visualization
 
-Generate visualizations like:
-
-  Bar plots, pie charts, and word clouds.
-  
-  Word frequency and text length distributions.
-  
-  Line charts for time-series data.
-  
-  Customize chart inputs such as categorical columns and metrics.
+    Generate visualizations like:
+    
+      Bar plots, pie charts, and word clouds.
+      
+      Word frequency and text length distributions.
+      
+      Line charts for time-series data.
+      
+      Customize chart inputs such as categorical columns and metrics.
 
 4. Text Representation
 
-Support for advanced vectorization techniques:
-
-  TF-IDF: Identify term importance.
-  
-  Bag of Words (BoW): Frequency of words.
-  
-  Named Entity Recognition (NER): Extract entities.
-  
-  N-Grams: Frequent word combinations.
-  
-  Word2Vec: Semantic word embeddings.
-  
-  View vectorized matrices with scrollable tables.
+    Support for advanced vectorization techniques:
+    
+      TF-IDF: Identify term importance.
+      
+      Bag of Words (BoW): Frequency of words.
+      
+      Named Entity Recognition (NER): Extract entities.
+      
+      N-Grams: Frequent word combinations.
+      
+      Word2Vec: Semantic word embeddings.
+      
+      View vectorized matrices with scrollable tables.
 
 5. Model Application
 
-Train machine learning models with options like:
+    Train machine learning models with options like:
+    
+      Naive Bayes, Logistic Regression, Decision Trees, SVM, KNN.
+      
+      Evaluate models with metrics including:
+      
+      Accuracy, precision, recall, and F1-score.
+      
+      Confusion matrix visualization.
+      
+      Split datasets into training and test sets with customizable ratios.
 
-  Naive Bayes, Logistic Regression, Decision Trees, SVM, KNN.
-  
-  Evaluate models with metrics including:
-  
-  Accuracy, precision, recall, and F1-score.
-  
-  Confusion matrix visualization.
-  
-  Split datasets into training and test sets with customizable ratios.
+
 
 
 Getting Started
